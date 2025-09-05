@@ -105,7 +105,8 @@ repositories:
     type: git
     # url: https://github.com/tier4/sensor_component_description.git
     url: https://github.com/aimotion-autonomous-driving-cluster/sensor_component_description.audiQ8.git
-    version: 03ba094851ec90febfcfc0adb20b64b0e19df7a8
+    # version: 03ba094851ec90febfcfc0adb20b64b0e19df7a8
+    version: main
   sensor_component/external/nebula:
     type: git
     url: https://github.com/tier4/nebula.git
