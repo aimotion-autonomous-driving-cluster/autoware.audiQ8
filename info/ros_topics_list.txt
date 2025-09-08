@@ -1,0 +1,29 @@
+# List of ROS2 topics obtained from rosbag files:
+# -----------------------------------------------
+
+/camera_info
+
+/clicked_point
+
+/events/read_split
+/events/write_split
+
+/genesys/adma/fix
+/genesys/adma/heading
+/genesys/adma/imu
+/genesys/adma/odometry
+/genesys/adma/velocity
+
+/goal_pose
+
+/image_raw
+/image_raw/compressed
+/image_raw/compressedDepth
+/image_raw/theora
+
+/initialpose
+
+/rslidar_points
+
+/parameter_events
+/rosout

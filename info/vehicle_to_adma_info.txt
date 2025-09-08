@@ -1,0 +1,25 @@
+# Vehicle information:
+# --------------------
+length = 4.915
+width = 1.937
+height = 1.633
+dx_rear_axle_to_back = 1.051   # between rear axle center to complete rear end in x axis.
+
+wheel-base = 2.928
+track-width = 1.655
+
+min_lateral_offset: -0.8275 # approximately
+max_lateral_offset: 1.0945
+
+# Adma to vehicle:
+# ----------------
+Following information defines vTa: adma position in vehicle coordinates
+vehicle coordinate is defined in geometric center of the vehicle (use l, w, h from above to get geometric center)
+x_v   -0.303908
+y_v    0.026288
+z_v   -0.285867
+
+
+# Cameras:
+# --------
+	Sensing cameras FOV: 60° 4 cameras, 100° 2 cameras
